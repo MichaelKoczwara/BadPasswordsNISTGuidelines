@@ -1,2 +1,2 @@
-# Bad Passwords NIST Guide lines
+# Bad Passwords NIST Guidelines
 Data Analysis Project
